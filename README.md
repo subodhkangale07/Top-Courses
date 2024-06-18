@@ -1,21 +1,5 @@
 Top Courses
 
-Table of Contents
-
-Introduction
-
-Features
-
-Technologies
-
-Installation
-
-Usage
-
-Configuration
-
-Contributing
-
 
 Introduction
 
